@@ -3,7 +3,7 @@
 Ocazion is a fully responsive 🖥️📱 eCommerce website template built with HTML, CSS, JavaScript, Bootstrap, and React. Designed for modern online stores, it provides a seamless and dynamic shopping experience across all devices.
 <br />
 <br />
-<a href="https://ocazion.rf.gd"><strong>➥ Live Demo</strong></a>
+<a href="https://ocazion.vercel.app/"><strong>➥ Live Demo</strong></a>
 <br />
 </div>
 
@@ -48,7 +48,7 @@ To install **Ocazion**, follow these steps:
 Windows:
 
 ```bash
-git clone https://github.com/ahmed-abd-alalim/Ocazion.git
+git clone https://github.com/AbderahmaneThimbo/Ocazion.git
 cd Ocazion
 npm i
 npm start
